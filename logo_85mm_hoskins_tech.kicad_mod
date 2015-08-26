@@ -1,11 +1,9 @@
-<br />
-<b>Warning</b>:  Division by zero in <b>/home2/carloscu/public_html/addonDomains/escalalibre.com/edwt/kicad_sizeConverter.php</b> on line <b>85</b><br />
-(module logo_20mm_hoskins_tech (layer F.Cu)
+(module LOGO (layer F.Cu)
   (at 0 0)
  (fp_text reference "G***" (at 0 0) (layer F.SilkS) hide
   (effects (font (thickness 0.3)))
   )
-  (fp_text value "logo_20mm_hoskins_tech" (at 0.75 0) (layer F.SilkS) hide
+  (fp_text value "LOGO" (at 0.75 0) (layer F.SilkS) hide
   (effects (font (thickness 0.3)))
   )
   (fp_poly (pts (xy 42.333333 31.750000) (xy -42.333333 31.750000) (xy -42.333333 10.837333) (xy -40.640000 10.837333) (xy -40.640000 29.802666) (xy 40.216667 29.802666) (xy 40.216667 10.837333) (xy -40.640000 10.837333)
